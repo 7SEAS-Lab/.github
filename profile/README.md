@@ -1,11 +1,5 @@
-<p align="center">
-  <img src="assets/7seas-light.svg#gh-light-mode-only"
-       alt="7SEAS Lab — Scalable and Efficient AI for Science"
-       width="900">
-  <img src="assets/7seas-dark.svg#gh-dark-mode-only"
-       alt="7SEAS Lab — Scalable and Efficient AI for Science"
-       width="900">
-</p>
+![7SEAS Lab — Scalable and Efficient AI for Science](assets/7seas.svg#gh-light-mode-only)
+![7SEAS Lab — Scalable and Efficient AI for Science](assets/7seas-dark.svg#gh-dark-mode-only)
 
 ## Scalable and Efficient AI for Science
 
