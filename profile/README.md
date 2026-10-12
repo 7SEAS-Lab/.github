@@ -1,4 +1,4 @@
-![7SEAS Lab — Scalable and Efficient AI for Science](assets/7seas.svg#gh-light-mode-only)
+![7SEAS Lab — Scalable and Efficient AI for Science](assets/7seas-light.svg#gh-light-mode-only)
 ![7SEAS Lab — Scalable and Efficient AI for Science](assets/7seas-dark.svg#gh-dark-mode-only)
 
 ## Scalable and Efficient AI for Science
